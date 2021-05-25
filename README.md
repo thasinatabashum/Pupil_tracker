@@ -21,6 +21,8 @@ Pupil diameter measurements can be exported to a csv file.
 
 ## Installation
 
+(Details installation guide pdf is given)
+
 **1. Download Anaconda** Python Version 3.7  https://www.anaconda.com/download/
 
 **2. Install packages** - Open the Anaconda Prompt and install the necessary packages
